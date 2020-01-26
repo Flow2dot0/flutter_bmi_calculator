@@ -1,1 +1,1 @@
-# flutter_practise_projects
+# flutter_bmi_calculator
